@@ -63,3 +63,13 @@ body {
     font-size: 4rem;
     font-weight: normal;
 }
+
+.artist-img {
+    width: 300px;
+    height: auto;
+}
+
+.artist-charm{
+    width: 300px;
+   height: auto;
+}
