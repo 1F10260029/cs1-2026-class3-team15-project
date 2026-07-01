@@ -72,3 +72,14 @@ body {
 html {
     scroll-behavior: smooth;
 }
+
+.accordion{
+    cursor: pointer;
+    user-select: none;
+}
+
+.panel{
+    display: none;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
